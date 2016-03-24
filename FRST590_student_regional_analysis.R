@@ -59,12 +59,6 @@ region.station.list = c(
 ##########################################################
 
 
-######### **** Input Ungauaged Watershed Area **** #########
-#Unit to be in km^2
-ungauged.ws.size = 70
-
-
-
 #   ***** COPY AND PASTE EVERYTHING AND RUN IT IN R *****
 #   ***** The process can take 2~5 mins *****
 
