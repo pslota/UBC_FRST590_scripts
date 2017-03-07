@@ -157,7 +157,13 @@ region.regdata = samplelmom()
 region.homo.test = summary(regtst(convert.regdata(region.regdata)))
 regional.lstats = regavlmom(convert.regdata(region.regdata))
 
+write.table(region.regdata, file = "region.regdata.txt",
+			col.names = TRUE, row.names = FALSE, quote = FALSE,
+			sep = ",")
+
 # Result printed on screen
 region.homo.test
 regional.lstats
+getwd()
+
 ######################## EOF ##########################
