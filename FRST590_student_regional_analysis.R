@@ -159,5 +159,5 @@ regional.lstats = regavlmom(convert.regdata(region.regdata))
 
 # Result printed on screen
 region.homo.test
-
+regional.lstats
 ######################## EOF ##########################
