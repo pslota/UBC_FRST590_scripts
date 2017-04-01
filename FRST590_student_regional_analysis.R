@@ -39,7 +39,7 @@ require(lmom) # samlmu() to calculate sample l-moments
 # Download the .mdb HYDAT dataset: ftp://ftp.tor.ec.gc.ca/HYDAT/
 # Unzip the hydat dataset
 # Where is the hydat.sqlite3 file located?
-hydat.file.location = "/Users/nickrong/Dropbox/sicamous/GIS/Hydat_Jan2017.sqlite3"
+hydat.file.location = "/Users/nickrong/Dropbox/GIS/Hydat_Jan2017.sqlite3"
 
 
 ######### **** Input Regional Station Numbers **** #########
